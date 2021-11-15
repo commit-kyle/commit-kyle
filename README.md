@@ -1,4 +1,6 @@
-# Generic greeting! <img align="left" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+<h1 align="center">
+# Generic greeting! <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+</h1>
 
 <div align="center">
   
