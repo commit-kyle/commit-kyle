@@ -1,9 +1,15 @@
 # Generic greeting! <img align="left" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
-My name is Kyle. I'm from Cape Town, South Africa currently a software developer in training.
+<div align="center">
+  
+My name is Kyle, a software developer from Cape Town, South Africa.
 
 ### Below you'll find my Github stats
-![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=commit-kyle&hide_rank=true&custom_title=Just+my+GitHub+stats&hide=contribs,prs,issues,stars&show_icons=true&theme=highcontrast)
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=commit-kyle&hide_rank=true&hide=contribs,prs,issues,stars&show_icons=true&theme=highcontrast&bg_color=90,7b2cbf,c77dff)
+<br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=commit-kyle&layout=compact&bg_color=90,7b2cbf,c77dff&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 <!--
 **commit-kyle/commit-kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
